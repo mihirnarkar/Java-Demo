@@ -1,0 +1,5 @@
+Depending on the use case, you may choose different map implementation. For example
+
+Use 'Hashmap' for general purpose use when order doesnt matter
+Use 'Treemap' when you need the keys to be sorted
+Use 'LinkedHashMap' when you need to maintain the insertion order

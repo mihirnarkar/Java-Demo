@@ -1,0 +1,18 @@
+1) cat /etc/redhat-release
+
+2) Make directory
+-> mkdir mihir
+
+3) check
+-> ls
+
+4) pwd
+
+5) create user:
+-> useradd mihir
+-> passwd mihir
+
+To find out how many processses are started from user mihir
+6) ps -ef | grep mihir
+
+
